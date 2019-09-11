@@ -7,8 +7,8 @@ package com.noob.study.design.mode.pattern.creational.singleton;
 public class TestThread implements Runnable {
     @Override
     public void run() {
-//        LazySingleton instance = LazySingleton.getInstance();
-//        LazyDoubleCheckSingleton instance = LazyDoubleCheckSingleton.getInstance();
+//        LazySingleton instance = LazySingleton.getInstance(); // 线程不安全
+//        LazyDoubleCheckSingleton instance = LazyDoubleCheckSingleton.getInstance(); // 双重锁，注意有重排序问题
 
 //        StaticInnerClassSingleton instance = StaticInnerClassSingleton.getInstance();
 

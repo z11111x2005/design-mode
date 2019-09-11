@@ -3,8 +3,9 @@ package com.noob.study.design.mode.pattern.creational.singleton;
 import java.io.Serializable;
 
 /**
- * created by noob
- * 2019/9/10 22:18
+ * @Auther: liuym
+ * @Date: 2019/9/10 17:09
+ * @Description：饿汉式,线程安全
  */
 public class HungrySingleton implements Serializable {
     private final static HungrySingleton hungrySingleton;

@@ -7,6 +7,7 @@ package com.noob.study.design.mode.pattern.creational.singleton;
  */
 public class LazyDoubleCheckSingleton {
 
+    // volatile用于解决重排序
     private volatile static LazyDoubleCheckSingleton lazyDoubleCheckSingleton = null;
 
     public LazyDoubleCheckSingleton() {
@@ -14,8 +15,8 @@ public class LazyDoubleCheckSingleton {
 
     public static LazyDoubleCheckSingleton getInstance() {
         if (lazyDoubleCheckSingleton == null) {
-            synchronized (LazyDoubleCheckSingleton.class){
-                if(lazyDoubleCheckSingleton == null){
+            synchronized (LazyDoubleCheckSingleton.class) {
+                if (lazyDoubleCheckSingleton == null) {
                     lazyDoubleCheckSingleton = new LazyDoubleCheckSingleton();
                 }
             }
