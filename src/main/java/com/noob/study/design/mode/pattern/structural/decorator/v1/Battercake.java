@@ -1,17 +1,17 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v1;
 
 /**
- * created by noob
- * 2019/9/11 21:35
- * 煎饼
+ * @Auther: liuym
+ * @Date: 2019/9/16 10:45
+ * @Description：
  */
 public class Battercake {
 
-    public String getDesc(){
+    public String getDesc() {
         return "煎饼";
     }
 
-    public int cost(){
+    public Integer cost() {
         return 8;
     }
 }

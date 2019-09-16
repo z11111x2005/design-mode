@@ -1,17 +1,18 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v2;
 
 /**
- * created by noob
- * 2019/9/11 21:35
- * 煎饼
+ * @Auther: liuym
+ * @Date: 2019/9/16 10:57
+ * @Description：
  */
 public class Battercake extends ABattercake {
-
+    @Override
     public String getDesc() {
         return "煎饼";
     }
 
-    public int cost() {
+    @Override
+    public Integer cost() {
         return 8;
     }
 }

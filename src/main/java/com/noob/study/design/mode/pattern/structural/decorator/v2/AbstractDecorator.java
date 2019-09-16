@@ -1,10 +1,12 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v2;
 
 /**
- * created by noob
- * 2019/9/11 21:49
+ * @Auther: liuym
+ * @Date: 2019/9/16 10:59
+ * @Description：
  */
 public class AbstractDecorator extends ABattercake {
+
     private ABattercake aBattercake;
 
     public AbstractDecorator(ABattercake aBattercake) {
@@ -13,11 +15,11 @@ public class AbstractDecorator extends ABattercake {
 
     @Override
     public String getDesc() {
-        return this.aBattercake.getDesc();
+        return aBattercake.getDesc();
     }
 
     @Override
-    public int cost() {
-        return this.aBattercake.cost();
+    public Integer cost() {
+        return aBattercake.cost();
     }
 }

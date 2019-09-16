@@ -57,12 +57,12 @@ public class Main {
 //        System.out.println("program end");
 
         // ThreadLocal
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
-        System.out.println("main thread"+ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
+        System.out.println("main thread" + ThreadLocalInstance.getInstance());
         Thread thread1 = new Thread(new TestThread());
         Thread thread2 = new Thread(new TestThread());
         thread1.start();

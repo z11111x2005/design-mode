@@ -4,7 +4,7 @@ package com.noob.study.design.mode.pattern.creational.singleton;
  * created by noob
  * 2019/9/10 23:53
  */
-public enum  EnumInstance {
+public enum EnumInstance {
 
     INSTANCE;
 
@@ -18,7 +18,7 @@ public enum  EnumInstance {
         this.data = data;
     }
 
-    public static EnumInstance getInstance(){
+    public static EnumInstance getInstance() {
         return INSTANCE;
     }
 }

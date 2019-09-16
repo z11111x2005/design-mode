@@ -1,12 +1,13 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v2;
 
 /**
- * created by noob
- * 2019/9/11 21:47
+ * @Auther: liuym
+ * @Date: 2019/9/16 10:56
+ * @Description：
  */
 public abstract class ABattercake {
 
     public abstract String getDesc();
 
-    public abstract int cost();
+    public abstract Integer cost();
 }

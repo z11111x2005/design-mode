@@ -1,8 +1,9 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v2;
 
 /**
- * created by noob
- * 2019/9/11 21:51
+ * @Auther: liuym
+ * @Date: 2019/9/16 11:00
+ * @Description：
  */
 public class EggDecorator extends AbstractDecorator {
     public EggDecorator(ABattercake aBattercake) {
@@ -15,7 +16,7 @@ public class EggDecorator extends AbstractDecorator {
     }
 
     @Override
-    public int cost() {
+    public Integer cost() {
         return super.cost() + 1;
     }
 }
