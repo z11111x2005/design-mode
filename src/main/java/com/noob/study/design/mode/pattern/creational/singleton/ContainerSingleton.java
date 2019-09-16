@@ -16,15 +16,15 @@ public class ContainerSingleton {
 
     private static Map<String, Object> singletonMap = new HashMap<>();
 
-    public static void putInstance(String key, Object instace){
-        if(StringUtils.isNotBlank(key)&&instace!=null){
-            if(!singletonMap.containsKey(key)){
+    public static void putInstance(String key, Object instace) {
+        if (StringUtils.isNotBlank(key) && instace != null) {
+            if (!singletonMap.containsKey(key)) {
                 singletonMap.put(key, instace);
             }
         }
     }
 
-    public static Object getInstance(String key){
+    public static Object getInstance(String key) {
         return singletonMap.get(key);
     }
 }
