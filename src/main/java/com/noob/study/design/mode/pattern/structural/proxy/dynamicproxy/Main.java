@@ -15,6 +15,6 @@ public class Main {
         order.setUserId(2);
 
         IOrderService orderServiceDynamicproxy = (IOrderService) new OrderServiceDynamicproxy(new OrderServiceImpl()).bind();
-        orderServiceDynamicproxy.save(order);
+        orderServiceDynamicproxy.saveOrder(order);
     }
 }

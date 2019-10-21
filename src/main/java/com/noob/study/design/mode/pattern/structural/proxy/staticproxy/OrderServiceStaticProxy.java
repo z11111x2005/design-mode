@@ -16,7 +16,7 @@ public class OrderServiceStaticProxy {
     public int saveOrder(Order order) {
         beforeMethod(order);
         iOrderService = new OrderServiceImpl();
-        int result = iOrderService.save(order);
+        int result = iOrderService.saveOrder(order);
         afterMethod();
         return result;
     }
