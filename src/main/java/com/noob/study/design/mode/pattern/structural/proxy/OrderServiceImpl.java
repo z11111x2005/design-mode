@@ -10,7 +10,7 @@ public class OrderServiceImpl implements IOrderService {
     private IOrderDao iOrderDao;
 
     @Override
-    public int save(Order order) {
+    public int saveOrder(Order order) {
         iOrderDao = new OrderDaoImpl();
         System.out.println("service层调用dao层添加order");
         return iOrderDao.insert(order);

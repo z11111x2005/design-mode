@@ -6,5 +6,5 @@ package com.noob.study.design.mode.pattern.structural.proxy;
  * @Description：
  */
 public interface IOrderService {
-    int save(Order order);
+    int saveOrder(Order order);
 }

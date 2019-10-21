@@ -1,5 +1,6 @@
 package com.noob.study.design.mode.pattern.structural.proxy.db;
 
+
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 
 /**
