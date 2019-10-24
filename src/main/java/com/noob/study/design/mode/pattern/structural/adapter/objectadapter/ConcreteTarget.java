@@ -2,7 +2,7 @@ package com.noob.study.design.mode.pattern.structural.adapter.objectadapter;
 
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/16 14:50
  * @Description：
  */

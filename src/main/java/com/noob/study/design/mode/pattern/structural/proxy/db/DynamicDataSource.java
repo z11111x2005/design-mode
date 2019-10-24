@@ -4,7 +4,7 @@ package com.noob.study.design.mode.pattern.structural.proxy.db;
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/29 11:18
  * @Description：
  */

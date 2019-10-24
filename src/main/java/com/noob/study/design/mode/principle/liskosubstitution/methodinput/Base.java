@@ -3,7 +3,7 @@ package com.noob.study.design.mode.principle.liskosubstitution.methodinput;
 import java.util.HashMap;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/8/29 11:10
  * @Description：
  */

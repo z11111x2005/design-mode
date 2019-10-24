@@ -3,7 +3,7 @@ package com.noob.study.design.mode.pattern.behavioral.memento;
 import java.util.Stack;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/10/24 16:00
  * @Description：
  */

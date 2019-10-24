@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.adapter;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/16 15:06
  * @Description：
  */

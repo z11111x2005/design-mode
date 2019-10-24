@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.creational.builder.v1;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/5 16:40
  * @Description：
  */

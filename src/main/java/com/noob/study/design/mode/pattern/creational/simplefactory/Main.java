@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.creational.simplefactory;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/4 14:29
  * @Description：简单工厂模型
  */

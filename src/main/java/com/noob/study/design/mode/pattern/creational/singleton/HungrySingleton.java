@@ -3,7 +3,7 @@ package com.noob.study.design.mode.pattern.creational.singleton;
 import java.io.Serializable;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/10 17:09
  * @Description：饿汉式,线程安全
  */

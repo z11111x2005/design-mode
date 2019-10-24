@@ -6,7 +6,7 @@ import com.noob.study.design.mode.pattern.structural.proxy.OrderServiceImpl;
 import com.noob.study.design.mode.pattern.structural.proxy.db.DataSourceContextHolder;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/29 11:14
  * @Description：
  */

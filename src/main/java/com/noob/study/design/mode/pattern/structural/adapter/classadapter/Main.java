@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.adapter.classadapter;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/16 14:54
  * @Description： 类适配-适配器模式
  */

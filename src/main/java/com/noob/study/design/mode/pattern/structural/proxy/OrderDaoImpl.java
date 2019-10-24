@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.proxy;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/29 11:09
  * @Description：
  */

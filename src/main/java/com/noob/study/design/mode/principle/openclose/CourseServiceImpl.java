@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.principle.openclose;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/8/21 17:29
  * @Description：
  */

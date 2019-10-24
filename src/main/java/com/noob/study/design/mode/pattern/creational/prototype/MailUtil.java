@@ -3,7 +3,7 @@ package com.noob.study.design.mode.pattern.creational.prototype;
 import java.text.MessageFormat;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/11 14:57
  * @Description：
  */

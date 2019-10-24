@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.principle.liskosubstitution;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/8/29 10:38
  * @Description：
  */

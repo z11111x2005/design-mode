@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.decorator.v1;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/16 10:45
  * @Description：
  */

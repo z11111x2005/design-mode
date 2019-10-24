@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.creational.abstractfactory;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/5 11:35
  * @Description：抽象工厂模型
  */

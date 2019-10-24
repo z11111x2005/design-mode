@@ -3,7 +3,7 @@ package com.noob.study.design.mode.pattern.creational.prototype.clone;
 import java.util.Date;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/11 15:37
  * @Description：
  */

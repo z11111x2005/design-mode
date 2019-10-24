@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.behavioral.command;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/10/24 16:37
  * @Description：
  */

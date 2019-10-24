@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.flyweight;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/16 16:38
  * @Description：
  */

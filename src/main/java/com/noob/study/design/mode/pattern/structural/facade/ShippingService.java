@@ -1,7 +1,7 @@
 package com.noob.study.design.mode.pattern.structural.facade;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/11 17:33
  * @Description：
  */
