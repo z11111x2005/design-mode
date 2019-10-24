@@ -5,7 +5,7 @@ import com.noob.study.design.mode.pattern.structural.proxy.Order;
 import com.noob.study.design.mode.pattern.structural.proxy.staticproxy.OrderServiceStaticProxy;
 
 /**
- * @Auther: liuym
+ * @Auther: noob
  * @Date: 2019/9/29 11:13
  * @Description：静态代理
  */
